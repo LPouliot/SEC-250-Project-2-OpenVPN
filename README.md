@@ -1,4 +1,4 @@
-# Project 2: OpenVPN Research and Implementation
+# [Project 2: OpenVPN Research and Implementation](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki)
 
 ## Project Purpose: 
 The purpose of this project is to establish a secure and efficient remote access solution for administering sensitive systems via a VPN (Virtual Private Network). This solution aims to enhance security by encrypting communication and implementing robust authentication methods.
