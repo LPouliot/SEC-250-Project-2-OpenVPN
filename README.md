@@ -18,6 +18,13 @@ The purpose of this project is to establish a secure and efficient remote access
 # Project Deliverables 
 
 ### Documentation Article on VPN Solution
+* [CentOS 7 OpenVPN Server](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki/CentOS-7-OpenVPN-server)
+* [Ubuntu OpenVPN Server](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki)
 
 ### Video Demonstration
+
+
+
+
+
 
