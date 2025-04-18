@@ -20,7 +20,7 @@ The purpose of this project is to establish a secure and efficient remote access
 ### Documentation Article on VPN Solution
 * [OpenVPN Description](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki/OpenVPN-Description)
 * [CentOS 7 OpenVPN Server](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki/CentOS-7-OpenVPN-server)
-* [Ubuntu OpenVPN Server](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki)
+* [Ubuntu OpenVPN Server](https://github.com/LPouliot/SEC-250-Project-2-OpenVPN/wiki/Ubuntu-OpenVPN-server)
 
 ### Video Demonstration
 
